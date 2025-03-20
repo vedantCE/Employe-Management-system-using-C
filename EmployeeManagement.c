@@ -5,7 +5,7 @@
 #include <string.h>
 #include <conio.h>
 
-
+const int hi=20;
 struct Employee
 {
     int id;
